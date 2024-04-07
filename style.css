@@ -1,0 +1,93 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+:root {
+  --whitish: #e4eaf6;
+  --neutral-brown: #ccc5b7;
+  --light-brown: #e5bb89;
+  --dark-brown: #6f5d44;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+}
+
+/* start of navbar styling */
+
+.navbar {
+  transition: all 0.5s ease;
+  border-bottom: 1px solid var(--whitish);
+}
+
+.navbar-brand span {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+a.nav-link {
+  margin-right: 2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* end of navbar styling */
+
+/* Start of hero section styling */
+
+.hero-title {
+  font-size: 5rem;
+  line-height: 5rem;
+}
+
+.hero p {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.btn {
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.btn-primary {
+  background-color: var(--dark-brown);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--light-brown);
+}
+
+.btn-secondary {
+  background-color: var(--neutral-brown);
+}
+
+.btn-secondary:hover,
+.btn-secondary:active {
+  background-color: var(--whitish);
+}
+
+/* Start of Hero Section */
+
+.hero-title {
+  margin-top: 10rem;
+}
+
+/* newsletter styling */
+.newsletter {
+  border-top: 1px solid var(--whitish);
+  padding-bottom: 5rem;
+  margin-top: 5rem;
+}
+
+form {
+  margin: 2rem;
+}
