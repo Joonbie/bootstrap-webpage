@@ -32,8 +32,8 @@ So, here's the challenge statement. Create the following responsive Homepage usi
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Joonbie/bootstrap-webpage)
+- Live Site URL: [Github Pages](https://joonbie.github.io/bootstrap-webpage/)
 
 ## My process
 
