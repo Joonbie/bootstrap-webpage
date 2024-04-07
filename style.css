@@ -43,6 +43,7 @@ a.nav-link {
 .hero-title {
   font-size: 5rem;
   line-height: 5rem;
+  margin-top: 10rem;
 }
 
 .hero p {
@@ -73,12 +74,6 @@ a.nav-link {
 .btn-secondary:hover,
 .btn-secondary:active {
   background-color: var(--whitish);
-}
-
-/* Start of Hero Section */
-
-.hero-title {
-  margin-top: 10rem;
 }
 
 /* newsletter styling */
