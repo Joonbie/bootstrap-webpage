@@ -107,5 +107,3 @@ I will take on more side projects using bootstrap when i have the time over the 
 ## Acknowledgments
 
 I would like to give special thanks to my Mentor Martin for giving me some insights when I was facing some diffulties on this challenge.
-
-- Image Credits - [Image by Vectonauta on Freepik](https://www.freepik.com/free-psd/corgi-banner-with-text-white-background_58622666.htm#fromView=search&page=1&position=26&uuid=b77d3c3a-6a6c-4089-9567-062fe2244100)
